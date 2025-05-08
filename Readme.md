@@ -16,7 +16,7 @@ You can explore the implementation here:
 - `datasets`
 Install the required packages using:
 
-```bash
+```
 pip install torch transformers tqdm datasets tokenizers numpy matplotlib
 ```
 
