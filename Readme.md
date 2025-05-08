@@ -17,7 +17,7 @@ You can explore the implementation here:
 Install the required packages using:
 
 ```bash
-pip torch transformers tqdm datasets tokenizers numpy matplotlib
+pip install torch transformers tqdm datasets tokenizers numpy matplotlib
 ```
 
 ## Clone
